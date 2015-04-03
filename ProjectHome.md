@@ -1,0 +1,1 @@
+This software provides mechanisms and an XML-based model for the creation and composition of music in MIDI format, based on repeating patterns, as well as rules of selection and repetition of patterns.
